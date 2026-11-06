@@ -2,6 +2,12 @@
 
 A Genshin Impact–themed take on Snake, built in C# with Windows Forms as a polytechnic programming project at Nanyang Polytechnic. You steer Paimon around a 10 × 20 board collecting **Primogems**. Her trail of **Intertwined Fates** grows with every gem, and each level adds one more gem to collect. When the game ends, your score is saved to a leaderboard.
 
+## Demo
+
+https://github.com/user-attachments/assets/d3dc6d0a-cd14-4f96-9967-51e95a438f0f
+
+*Collecting Primogems across levels, growing the snake, and the Game Over and leaderboard screens. (2:17)*
+
 ## How to play
 
 1. Type your name in the **Name** box (leave it blank to play anonymously).
@@ -77,3 +83,6 @@ Requirements: Windows and Visual Studio (2017 or newer) with the **.NET desktop 
 - Game sprites, music and wallpaper are from *Genshin Impact* © HoYoverse, used here for a non-commercial student project.
 - Starter structure (Board / Position / timer loop) was provided as part of the course; the theme, rewards, levels, diagonal movement, scoring and leaderboard are my additions.
 - Author: Valerie Tan Wan Xin – Nanyang Polytechnic, Infocomm & Media Engineering
+
+
+
