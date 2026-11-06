@@ -1,0 +1,8 @@
+HI,120
+HI,960
+Val,2400
+Charlene,160
+Glenda,480
+Z,800
+Jap,480
+Valerie,960
